@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 [![TomSawyer2's github stats](https://github-readme-stats.vercel.app/api?username=TomSawyer2&theme=Gradient&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomSawyer2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![TomSawyer2's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TomSawyer2)](https://github.com/anuraghazra/github-readme-stats)
