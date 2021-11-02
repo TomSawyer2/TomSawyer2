@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💬 I'm TomSawyer2, a sophomore from [HUST](https://www.hust.edu.cn/), China
+- 🔭 I’m currently working on front-end
+- 📫 How to reach me: 6272867@qq.com or yousaling@hust.edu.cn
+
+[![TomSawyer2's github stats](https://github-readme-stats.vercel.app/api?username=TomSawyer2&theme=Gradient&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomSawyer2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![TomSawyer2's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TomSawyer2)](https://github.com/anuraghazra/github-readme-stats)
