@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 💬 I'm TomSawyer2, a sophomore from [HUST](https://www.hust.edu.cn/), China
 - 🌱 I’m currently working on front-end
-- 📫 How to reach me: 6272867@qq.com or yousaling@hust.edu.cn
+- 📫 How to reach me: tomsawyer2@foxmail.com or yousaling@hust.edu.cn
 
 [![TomSawyer2's github stats](https://github-readme-stats.vercel.app/api?username=TomSawyer2&theme=Gradient&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
