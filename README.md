@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 I'm TomSawyer2, a sophomore from [HUST](https://www.hust.edu.cn/), China
-- 🌱 I’m currently working on front-end
+- 💬 I'm TomSawyer2, a junior student from [HUST](https://www.hust.edu.cn/), China
+- 🌱 I’m currently working on JavaScript fullstack and anything interesting
 - 📫 How to reach me: tomsawyer2@foxmail.com or yousaling@hust.edu.cn
 
-[![TomSawyer2's github stats](https://github-readme-stats.vercel.app/api?username=TomSawyer2&theme=Gradient&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomSawyer2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=TomSawyer2&theme=buefy&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="TomSawyer2's GitHub stats" height="185px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomSawyer2&layout=compact&langs_count=8&theme=buefy&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px" />
