@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 I'm TomSawyer2, a junior student from [HUST](https://www.hust.edu.cn/), China
+- 💬 I'm TomSawyer2, a senior student from [HUST](https://www.hust.edu.cn/), China
 - 🌱 I’m currently working on JavaScript fullstack and anything interesting
 - 📫 How to reach me: tomsawyer2@foxmail.com or yousaling@hust.edu.cn
 
